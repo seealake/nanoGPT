@@ -1,0 +1,69 @@
+Overriding: out_dir = out-shakespeare-char
+Overriding: device = cpu
+Overriding: num_samples = 5
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+The lige them sholds fater didor no one all eye.
+
+KING RICHARD IIAN not what tey:
+Thy the of have of heir befy off a cate whing ney
+Plaction the worth my freses son the poon fall,
+As with all not to say our thing have for the thuse seed
+the shall he brought a had broth in a hate a gove in
+I say dild
+---------------
+
+Wilture how a sind.
+
+But when tie blay lord sue more wray, when but hold heans
+And enser of carith of the worn ought;
+His we the more he hath unter the tremy you,
+And both you much as enderner her that carest thee
+Toof in ofrearng Elath, buff this thee in hand they hou
+seefft a courser in perful, ar
+---------------
+
+Whe king fard her stoe more in compernown,
+And the his ares thee our bothen leattnal'st
+That proding than than shalbout to may.
+
+ESCINIUS:
+I my lay come in rable of the him faind fore to sorree.
+
+JUDIET:
+Why, am speake liest of a thy Clniares allow,
+And they donge and if the daidy beter king.
+Sto th
+---------------
+
+From the be not thy can the jaustess,
+You vengs of merry which a hate you.
+
+KISING EDWOM:
+With you seen our rudy me that pert sweith seatess.
+
+BUCERIO:
+A may and mader fich sight but to what us thy so hop!
+
+BUCKINGAM:
+Didile exty vay leath a to a cence here,
+To dean, that you faull do have in arme?
+
+---------------
+
+Touck of let it eye gain with his ableactar.
+
+KINGBRIV:
+Be we death compen has beth that a some a a sway thouss.
+
+
+STHARLAN:
+I shall ot may that abuts that a deathsure a of Your
+Our shall her fan what you shalt are with shea!
+Who he were it the sigh scand the you,
+Her shall the shall shale for your 
+---------------
