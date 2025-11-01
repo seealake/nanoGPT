@@ -1,9 +1,5 @@
 Overriding: out_dir = out-shakespeare-char
 Overriding: device = cpu
-Overriding: num_samples = 5
-Overriding: max_new_tokens = 300
-Overriding: temperature = 0.8
-Overriding: top_k = 200
 number of parameters: 0.80M
 Loading meta from data\shakespeare_char\meta.pkl...
 
@@ -14,56 +10,201 @@ Thy the of have of heir befy off a cate whing ney
 Plaction the worth my freses son the poon fall,
 As with all not to say our thing have for the thuse seed
 the shall he brought a had broth in a hate a gove in
-I say dild
+I say dildence thy the me him man to contion
+Why lord sue monel the sire sto in be heand thriens?
+
+Betcardy I from the not our now he burt mone;
+If baing the with me to Godd shy theirse the say
+enret the sto to
 ---------------
 
-Wilture how a sind.
+Rechiced thee wilf:
+You reasunt lady, but you bele a in hase a my holds
+Befoly of rear sheef his, and have armand
+Thoust I hord in courel of blieds
+The my are cull come bother leatte him coursandlain!
 
-But when tie blay lord sue more wray, when but hold heans
-And enser of carith of the worn ought;
-His we the more he hath unter the tremy you,
-And both you much as enderner her that carest thee
-Toof in ofrearng Elath, buff this thee in hand they hou
-seefft a courser in perful, ar
+GLEO:
+No, so both to may not thy brip are lay come
+Thart the out all beforen on a to sorree helf
+Able the say speake liest of a thy Clniar
+I all in both thy donge and if thee
+The preting our the digh.
+
+CLUTES:
+I may beost the shall's my prove gaust mer.
+
+Shall:
+Let your man, hoband moch, at art ho
 ---------------
 
-Whe king fard her stoe more in compernown,
-And the his ares thee our bothen leattnal'st
-That proding than than shalbout to may.
+Sen our rudel persing effer to sup.
 
-ESCINIUS:
-I my lay come in rable of the him faind fore to sorree.
+HENNRY HARRD II:
+Whom not to my lords.
 
-JUDIET:
-Why, am speake liest of a thy Clniares allow,
-And they donge and if the daidy beter king.
-Sto th
----------------
+HENRY HARD IIF RIXE:
+No, we he ampue, and the a exty vay leath a to a confer
+To canted
+To shall you faull do have in arme?
 
-From the be not thy can the jaustess,
-You vengs of merry which a hate you.
+But as mender:
+Sow I will quen I able comper:
+The no he and vind you would and for this a some
+That way thousst is noble, in a she comp'd a say
+And shall and in your have shall prongent's.
+And now agay all my a reatty a with here.
 
-KISING EDWOM:
-With you seen our rudy me that pert sweith seatess.
+BOSTESTLANNUS:
+Levefore well, and my fare, I dentle my be!
 
-BUCERIO:
-A may and mader fich sight but to what us thy so hop!
-
-BUCKINGAM:
-Didile exty vay leath a to a cence here,
-To dean, that you faull do have in arme?
+LUCIO:
 
 ---------------
 
-Touck of let it eye gain with his ableactar.
+If the she rof the for I wo as
+So inceal of the her bouch arther four dide,
+A and day reppurer sonques.
 
-KINGBRIV:
-Be we death compen has beth that a some a a sway thouss.
+
+KINGHARD IV:
+Ound the well there fair of that he able blow whires.
+
+HARDIT:
+Wemak'd the price how is counsel.
+
+GROKLABUS:
+Why, be them my loubbst wen have my ennouS
+Top you dely dever betward, the for I sur,
+The det he sill in the in would.
+
+MERCUTE EY:
+Will:
+And To will not shall be sorl's sue him's ark.
+
+BRUCESTAR:
+Why, my lay's likes might i own shall have.
+
+MERTES:
+A farsher thou hat be 
+---------------
+
+Who cand have lookss of I as klow. There reagn souly.
+IS all he lese more amme sake of thy ar
+sten that so.
+Lo:
+Well, then how the sheet your the contert in be
+From can and he saing and come abain;
+To look the sway preall good that see, I heave.
+
+Sid VENY LEO:
+Hensen a me for make and vee presen in thate: wo with wilve
+To farth by for of to my me bourn
+That in ouch me your love lear
+As not hies liters on quowiter your glow.
+
+KING RICHARD III:
+I tee? when well, and me hath fatter of lies?
+
+LADY F
+---------------
+
+I the juttich thee contlery ble fult, and her sting,
+Will upation, I I contond the likes srove Come,
+That in so it ourl un porter this the will thys
+heir plaself-from and of with but the boutter thee
+our is on of the hars at good gue,
+Hart age marry as but but un that the noturest
+And some shall housed sorman astand of
+This face in should terch a lie larne's hears.
+
+QUIN AUN LIANET:
+My day could she arath to of teres,
+In be and of her,
+Which bus though sundand thou soutes lay.
+
+CORIOLUTANUNE:
+As
+---------------
+
+In good pan, beart a controndst.
+
+YORK:
+
+Combe you bay may make the arfore but your!
+
+MEOLIUbs came obse not had.
+
+PRIOLEN:
+I all we so! you not for as the hort whoe head
+A with in mother anate quien
+God quee mish more frieh wilt she the in praites
+To manr our Couse theive has ofle.
+
+Secund Yet, for dight:
+I that our thing leaty sour, they doward:
+Set thus sir, it I son the grove:
+For the the have whout thee so wild not
+Heres for affory the vord show he were could.
+
+KING RICHARD III:
+This not no
+---------------
 
 
-STHARLAN:
-I shall ot may that abuts that a deathsure a of Your
-Our shall her fan what you shalt are with shea!
-Who he were it the sigh scand the you,
-Her shall the shall shale for your 
+The beset say ducke in Goddmone artue all that not my stir.
+
+THERBRONA:
+Of you theseft, a now oungles at under.
+
+PRINNAUS:
+Thought sees excolle;
+For derves not me wrund were the seem indoughth,
+Emand I shall und named the you wixes,
+Though must at upar-with of this the nothe
+Uncion to keand ag. I sech on in your
+The with himbons the can have office nest
+A and wordly be hand a whom. I grow his Yours:
+To that his hot this Clesond in cry my read,
+Sir, indry an your jastiong for that nothedsiter?
+
+
+---------------
+
+The bakem of srY ady I am knot my call alcioin,
+What is forl all pronge ming.
+
+GLOUCES:
+Fire sorfuly in the full in comes sir,
+What sue.
+
+STAROLENCUS:
+O proft the not upper, and I sid woull sue a trem
+The forter sencaifute prince thee but,
+The at the songe, the dongs a would hus execun
+The I than shame they mans, in sirrough my the not
+Of more have and to crowll'd the sing on,
+Sirloughter's sir; in I should your more,
+Say you long sham it be lee, I our sueld.
+
+SARCE:
+I the you not so for seemite
+---------------
+
+Buse so thee be scue thou herse your shall ustell
+But such the all not than hat lay, are
+How now you, pay, thear the and that in fatle;
+The paysers the their sparing not of your colds-but.
+
+KING HES RIV:
+Third, what you day make can, suate a hawel,
+Or not the of of donger her enner prect!
+O, and, I thou can die friend the cars,
+Where to hate to be be we thead be this lage?
+
+ISABELL:
+Thy swark wouch farte to much enjudys:
+Here from in to agent say will dake have with the eur to dubun out.
+
+ADUKE 
 ---------------
